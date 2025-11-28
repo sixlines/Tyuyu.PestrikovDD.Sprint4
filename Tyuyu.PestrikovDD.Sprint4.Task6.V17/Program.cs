@@ -1,4 +1,4 @@
-﻿using Tyuyu.PestrikovDD.Sprint4.Task6.V17.Lib;
+﻿using Tyuiu.PestrikovDD.Sprint4.Task6.V17.Lib;
 DataService ds = new DataService();
 Random rnd = new Random();
 Console.Title = "Спринт #4 | Выполнил: Пестриков Д. Д. | ИСТНБ-25-1";

@@ -1,4 +1,4 @@
-﻿using Tyuyu.PestrikovDD.Sprint4.Task2.V16.Lib;
+﻿using Tyuiu.PestrikovDD.Sprint4.Task2.V16.Lib;
 namespace Tyuiu.PestrikovDD.Sprint4.Task2.V16
 {
     internal class Program

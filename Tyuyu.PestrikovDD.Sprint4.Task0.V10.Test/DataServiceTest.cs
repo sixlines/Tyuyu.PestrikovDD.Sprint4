@@ -1,4 +1,4 @@
-﻿using Tyuyu.PestrikovDD.Sprint4.Task0.V10.Lib;
+﻿using Tyuiu.PestrikovDD.Sprint4.Task0.V10.Lib;
 namespace Tyuyu.PestrikovDD.Sprint4.Task0.V10.Test
 {
     [TestClass]
