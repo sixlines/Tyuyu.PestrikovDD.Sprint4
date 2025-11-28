@@ -4,4 +4,9 @@
     <Project Path="Tyuyu.PestrikovDD.Sprint4.Task0.V10.Test/Tyuyu.PestrikovDD.Sprint4.Task0.V10.Test.csproj" />
     <Project Path="Tyuyu.PestrikovDD.Sprint4.Task0.V10/Tyuyu.PestrikovDD.Sprint4.Task0.V10.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuyu.PestrikovDD.Sprint4.Task1.V11.Lib/Tyuyu.PestrikovDD.Sprint4.Task1.V11.Lib.csproj" />
+    <Project Path="Tyuyu.PestrikovDD.Sprint4.Task1.V11.Test/Tyuyu.PestrikovDD.Sprint4.Task1.V11.Test.csproj" />
+    <Project Path="Tyuyu.PestrikovDD.Sprint4.Task1.V11/Tyuyu.PestrikovDD.Sprint4.Task1.V11.csproj" />
+  </Folder>
 </Solution>
