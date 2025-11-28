@@ -36,7 +36,6 @@ namespace Tyuiu.PestrikovDD.Sprint4.Task3.V7
             Console.WriteLine("********************************************************************");
             Console.WriteLine("РЕЗУЛЬТАТ");
             Console.WriteLine("********************************************************************");
-
             int res = ds.Calculate(mas2);
             Console.WriteLine("Количество нечетных элементов: " + res);
             Console.ReadKey();

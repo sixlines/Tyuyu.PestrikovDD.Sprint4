@@ -7,7 +7,6 @@ namespace Tyuiu.PestrikovDD.Sprint4.Task4.V2
         {
             DataService ds = new DataService();
 
-
             Console.Title = "Спринт #4 | Выполнил: Пестриков Д. Д. | ИСТНБ-25-1 ";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");

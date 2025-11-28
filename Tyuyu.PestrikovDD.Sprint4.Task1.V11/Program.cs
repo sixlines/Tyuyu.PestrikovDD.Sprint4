@@ -39,7 +39,6 @@ namespace Tyuiu.PestrikovDD.Sprint4.Task1.V11
             }
             Console.WriteLine();
             Console.WriteLine();
-
             int res = ds.Calculate(array);
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");

@@ -31,7 +31,6 @@ namespace Tyuiu.PestrikovDD.Sprint4.Task0.V10
             {
                 Console.WriteLine(num);
             }
-
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");

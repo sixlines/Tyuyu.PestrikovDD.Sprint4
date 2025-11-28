@@ -28,7 +28,6 @@ namespace Tyuiu.PestrikovDD.Sprint4.Task5.V16
 
             Console.Write("Введите количество строк в массиве: ");
             int rows = Convert.ToInt32(Console.ReadLine());
-
             Console.Write("Введите количество столбцов в массиве: ");
             int colums = Convert.ToInt32(Console.ReadLine());
 
