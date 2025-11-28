@@ -5,16 +5,19 @@ namespace Tyuiu.PestrikovDD.Sprint4.Task4.V2.Lib
     {
         public int[,] Calculate(int[,] matrix)
         {
-            for (int i = 0; i < matrix.GetLength(0); i++)
+            int rows = matrix.GetUpperBound(0) + 1;  //строки
+            int columns = matrix.Length / rows;  //столбцы
+
+            for (int i = 0; i < rows; i++)
             {
-                for (int j = 0; j < matrix.GetLength(1); j++)
+                for (int j = 0; j < columns; j++)
                 {
+
                     if (matrix[i, j] % 2 != 0)
                     {
                         matrix[i, j] = 0;
                     }
                 }
-
             }
             return matrix;
         }
