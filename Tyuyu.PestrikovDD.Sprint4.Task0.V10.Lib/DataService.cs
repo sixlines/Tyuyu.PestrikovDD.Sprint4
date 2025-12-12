@@ -1,5 +1,5 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint4;
-namespace Tyuyu.PestrikovDD.Sprint4.Task0.V10.Lib
+namespace Tyuiu.PestrikovDD.Sprint4.Task0.V10.Lib
 {
     public class DataService : ISprint4Task0V10
     {

@@ -1,5 +1,5 @@
-﻿using Tyuyu.PestrikovDD.Sprint4.Task4.V2.Lib;
-namespace Tyuyu.PestrikovDD.Sprint4.Task4.V2.Test
+﻿using Tyuiu.PestrikovDD.Sprint4.Task4.V2.Lib;
+namespace Tyuiu.PestrikovDD.Sprint4.Task4.V2.Test
 {
     [TestClass]
     public class DataServiceTest
