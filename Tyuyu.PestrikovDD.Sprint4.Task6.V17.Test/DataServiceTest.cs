@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.PestrikovDD.Sprint4.Task6.V17.Test
+﻿namespace Tyuyu.PestrikovDD.Sprint4.Task6.V17.Test
 {
     [TestClass]
     public sealed class DataServiceTest

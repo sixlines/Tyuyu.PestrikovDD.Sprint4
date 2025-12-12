@@ -1,6 +1,6 @@
-﻿using Tyuiu.PestrikovDD.Sprint4.Task4.V2.Lib;
+﻿using Tyuyu.PestrikovDD.Sprint4.Task4.V2.Lib;
 
-namespace Tyuiu.PestrikovDD.Sprint4.Task4.V2
+namespace Tyuyu.PestrikovDD.Sprint4.Task4.V2
 {
     public class Program
     {

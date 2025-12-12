@@ -1,5 +1,5 @@
-﻿using Tyuiu.PestrikovDD.Sprint4.Task7.V14.Lib;
-namespace Tyuiu.PestrikovDD.Sprint4.Task7.V14
+﻿using Tyuyu.PestrikovDD.Sprint4.Task7.V14.Lib;
+namespace Tyuyu.PestrikovDD.Sprint4.Task7.V14
 {
     class Program
     {
